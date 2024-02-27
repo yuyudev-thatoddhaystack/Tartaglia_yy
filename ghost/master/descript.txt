@@ -1,0 +1,18 @@
+charset,UTF-8
+
+name,Tartaglia
+type,ghost
+
+sakura.name,Tartaglia
+kero.name,Blank
+
+craftman,Vita/yuyudev
+craftmanw,Vita/yuyudev
+craftmanurl,https://thatoddhaystack.neocities.org/ukagaka/
+
+sstp.allowunspecifiedsend,0
+shiori,yaya.dll
+
+//http://www.convertico.com/ is handy for making .icos
+icon,tartaglia.ico
+balloon,Tartaglia_Balloon_yy
