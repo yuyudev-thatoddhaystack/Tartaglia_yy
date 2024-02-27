@@ -1,7 +1,7 @@
 //Network Update URL. I recommend using Github Pages to set up a site and store their files! It's free and reliable. I've written up a guide on how to do this here https://zichqec.github.io/s-the-skeleton/github.html
 On_homeurl
 {
-		"https://raw.githubusercontent.com/yuyudev-thatoddhaystack/Tartaglia_yy/main/"
+	"https://raw.githubusercontent.com/yuyudev-thatoddhaystack/Tartaglia_yy/main/"
 
 }
 
