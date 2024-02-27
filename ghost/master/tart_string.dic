@@ -1,14 +1,8 @@
 //Network Update URL. I recommend using Github Pages to set up a site and store their files! It's free and reliable. I've written up a guide on how to do this here https://zichqec.github.io/s-the-skeleton/github.html
 On_homeurl
 {
-	if betaTester == "On" //You don't need to include beta testing if you don't want to. If you want to get rid of it, replace this whole bit with a single homeurl link.
-	{
-		"https://YourBetaDirectoryHere.com/YourGhost/"
-	}
-	else
-	{
-		"https://YourGhostDirectoryHere.com/YourGhost/"
-	}
+		"https://raw.githubusercontent.com/yuyudev-thatoddhaystack/Tartaglia_yy/main/"
+
 }
 
 On_recommendrootbutton.caption //Change [Your Username] to your username, or change the whole caption to whatever you want. This is the top list of websites in the right click menu.
