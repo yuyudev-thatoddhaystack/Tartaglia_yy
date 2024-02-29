@@ -1,6 +1,9 @@
+02.29.24
+Tartaglia has been retroactively disqualified from Ghost Jam 2021 because of use of external assets (ripping dialogue from Genshin Impact).
+
+
 02.21.24
 Welp. It's been several years. I don't see myself coming back to this guy anytime soon so I am unleashing him on the world in his Ghost Jam State
-
 
 Original Readme:(04.24.21)
 
